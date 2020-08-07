@@ -1,0 +1,24 @@
+{
+  "name": "babel-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molo4nayaPenka/npm_babel.git"
+  },
+  "author": "Olga Medvetskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Molo4nayaPenka/npm_babel/issues"
+  },
+  "homepage": "https://github.com/Molo4nayaPenka/npm_babel#readme"
+}
